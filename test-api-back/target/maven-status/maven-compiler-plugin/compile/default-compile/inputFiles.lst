@@ -1,0 +1,16 @@
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/RestAPIApplication.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/client/CardClient.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/DataSourceConfig.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/FeignClientConfiguration.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/HeaderRequestInterceptor.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/JpaConfig.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/LoggerInterceptor.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/config/WebConfig.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/controller/CardController.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/dao/LogInformationDao.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/dto/CardAllInformationResponse.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/dto/GetCardBalanceResponse.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/dto/GetCardInformationResponse.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/models/LogInformation.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/repository/LogInformationRepository.java
+/home/lsaid/Workspaces/Prueba/test-api-back/src/main/java/com/test/api/services/CardService.java

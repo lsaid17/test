@@ -1,0 +1,17 @@
+version: '2.1'
+networks:
+  test-api:
+volumes:
+  cache:
+    driver: local
+services:
+  test_api:
+    image: postgres
+    environment:
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - 15432:5432
+    volumes:
+      - ${PWD}/postgres/test_api_postgres_grant.sql:/docker-entrypoint-initdb.d/1.sql
+    networks:
+      - test-api
